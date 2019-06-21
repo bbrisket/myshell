@@ -1,7 +1,7 @@
 This is an implementation of a simple linux shell. To run, enter the following:
 ```
-make
-./myshell
+$ make
+$ ./myshell
 ```
 
 Supports:
